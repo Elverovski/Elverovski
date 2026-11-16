@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="196" viewBox="0 0 480 196" role="img" aria-label="Système Scolaire: Desktop app to manage students, teachers, courses and salaries, with JSON persistence. Built with Java 21, JavaFX, Maven, Jackson.">
+<title>Système Scolaire: Desktop app to manage students, teachers, courses and salaries, with JSON persistence. Built with Java 21, JavaFX, Maven, Jackson.</title>
+<style>@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}.rise{animation-delay:0.15s}</style>
+<g class="rise">
+  <path d="M12.75 0.75 H467.25 A12 12 0 0 1 479.25 12.75 V183.25 A12 12 0 0 1 467.25 195.25 H12.75 A12 12 0 0 1 0.75 183.25 V12.75 A12 12 0 0 1 12.75 0.75 Z" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <path d="M12.75 0.75 H467.25 A12 12 0 0 1 479.25 12.75 V183.25 A12 12 0 0 1 467.25 195.25 H12.75 A12 12 0 0 1 0.75 183.25 V12.75 A12 12 0 0 1 12.75 0.75 Z" fill="none" stroke="#1f2328" stroke-width="1.5" stroke-linecap="round" pathLength="100" stroke-dasharray="10 90" opacity=".55">
+    <animate attributeName="stroke-dashoffset" from="83" to="-17" dur="7s" repeatCount="indefinite"/></path>
+  <text x="24" y="40" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#59636e">02</text>
+  <g transform="translate(440 26)" fill="none" stroke="#59636e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 13 L13 3 M5 3 H13 V11"/></g>
+  <text x="24" y="78" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="-.3" fill="#1f2328">Système Scolaire</text>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#59636e">
+    <text x="24" y="106">Desktop app to manage students, teachers,</text>
+    <text x="24" y="127">courses and salaries, with JSON persistence.</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#1f2328">
+    <rect x="24" y="148" width="72.4" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="35" y="165.5" textLength="50.4" lengthAdjust="spacing">Java 21</text>
+    <rect x="104.4" y="148" width="65.2" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="115.4" y="165.5" textLength="43.2" lengthAdjust="spacing">JavaFX</text>
+    <rect x="177.60000000000002" y="148" width="58" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="188.60000000000002" y="165.5" textLength="36" lengthAdjust="spacing">Maven</text>
+    <rect x="243.60000000000002" y="148" width="72.4" height="26" rx="13" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="254.60000000000002" y="165.5" textLength="50.4" lengthAdjust="spacing">Jackson</text>
+  </g>
+</g>
+</svg>

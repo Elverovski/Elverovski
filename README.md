@@ -34,37 +34,37 @@
   <tr>
     <td width="150"><b>Core</b></td>
     <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring&theme=dark"><img alt="Java, Spring Boot" src="https://skillicons.dev/icons?i=java,spring&theme=light" height="44"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring&theme=dark"><img alt="Java, Spring Boot" src="https://skillicons.dev/icons?i=java%2Cspring&theme=light" height="44"></picture>
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,python,fastapi,nodejs,nestjs&theme=dark"><img alt="Kotlin, Python, FastAPI, Node.js, NestJS" src="https://skillicons.dev/icons?i=kotlin,python,fastapi,nodejs,nestjs&theme=light" height="44"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cpython%2Cfastapi%2Cnodejs%2Cnestjs&theme=dark"><img alt="Kotlin, Python, FastAPI, Node.js, NestJS" src="https://skillicons.dev/icons?i=kotlin%2Cpython%2Cfastapi%2Cnodejs%2Cnestjs&theme=light" height="44"></picture>
     </td>
   </tr>
   <tr>
     <td><b>Frontend &amp; mobile</b></td>
     <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,angular,nextjs,tailwind&theme=dark"><img alt="TypeScript, React, Angular, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=ts,react,angular,nextjs,tailwind&theme=light" height="44"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cangular%2Cnextjs%2Ctailwind&theme=dark"><img alt="TypeScript, React, Angular, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=ts%2Creact%2Cangular%2Cnextjs%2Ctailwind&theme=light" height="44"></picture>
     </td>
   </tr>
   <tr>
     <td><b>Data</b></td>
     <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb&theme=dark"><img alt="PostgreSQL, Supabase, MySQL, MongoDB" src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb&theme=light" height="44"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Csupabase%2Cmysql%2Cmongodb&theme=dark"><img alt="PostgreSQL, Supabase, MySQL, MongoDB" src="https://skillicons.dev/icons?i=postgres%2Csupabase%2Cmysql%2Cmongodb&theme=light" height="44"></picture>
     </td>
   </tr>
   <tr>
     <td><b>DevOps &amp; tools</b></td>
     <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,aws,postman,git&theme=dark"><img alt="Docker, GitHub Actions, AWS, Postman, Git" src="https://skillicons.dev/icons?i=docker,githubactions,aws,postman,git&theme=light" height="44"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Caws%2Cpostman%2Cgit&theme=dark"><img alt="Docker, GitHub Actions, AWS, Postman, Git" src="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Caws%2Cpostman%2Cgit&theme=light" height="44"></picture>
     </td>
   </tr>
   <tr>
     <td><b>Also</b></td>
     <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,cs,godot,blender,raspberrypi&theme=dark"><img alt="Unity, C#, Godot, Blender, Raspberry Pi" src="https://skillicons.dev/icons?i=unity,cs,godot,blender,raspberrypi&theme=light" height="44"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity%2Ccs%2Cgodot%2Cblender%2Craspberrypi&theme=dark"><img alt="Unity, C#, Godot, Blender, Raspberry Pi" src="https://skillicons.dev/icons?i=unity%2Ccs%2Cgodot%2Cblender%2Craspberrypi&theme=light" height="44"></picture>
     </td>
   </tr>
 </table>

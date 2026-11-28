@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" role="img" aria-label="Timeline: ~2018, The spark (Curious about how software works); college, Computer Science (Technical college program); build, Full-stack apps (Front ends, APIs and databases); focus, Backend (Java &amp; Spring Boot, clean architecture); now, Software Engineering (Génie logiciel).">
-<title>Timeline: ~2018, The spark (Curious about how software works); college, Computer Science (Technical college program); build, Full-stack apps (Front ends, APIs and databases); focus, Backend (Java &amp; Spring Boot, clean architecture); now, Software Engineering (Génie logiciel).</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" role="img" aria-label="Timeline: 2015, The spark (Curious about how software works); college, Computer Science (Technical college program); build, Full-stack apps (Front ends, APIs and databases); focus, Backend (Java &amp; Spring Boot, clean architecture); now, Software Engineering (Génie logiciel).">
+<title>Timeline: 2015, The spark (Curious about how software works); college, Computer Science (Technical college program); build, Full-stack apps (Front ends, APIs and databases); focus, Backend (Java &amp; Spring Boot, clean architecture); now, Software Engineering (Génie logiciel).</title>
 <style>@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 .rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
 @keyframes pop{from{opacity:0;transform:translateY(6px) scale(.9)}to{opacity:1;transform:none}}
@@ -14,7 +14,7 @@
   <g class="pop" style="animation-delay:0.3s">
     
     <circle cx="96" cy="64" r="7" fill="#0d1117" stroke="#e6edf3" stroke-width="2"/>
-    <text x="96" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#8b949e">~2018</text>
+    <text x="96" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#8b949e">2015</text>
     <text x="96" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6edf3">The spark</text>
     <text x="96" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#8b949e">Curious about how</text><text x="96" y="139" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#8b949e">software works</text>
   </g>

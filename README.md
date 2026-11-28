@@ -50,7 +50,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
-  <img alt="Journey: around 2018, the spark, curious about how software works; Computer Science technical college program; full-stack apps; backend focus on Java and Spring Boot; now studying Software Engineering (génie logiciel)." src="assets/timeline-light.svg" width="100%">
+  <img alt="Journey: 2015, the spark, curious about how software works; Computer Science technical college program; full-stack apps; backend focus on Java and Spring Boot; now studying Software Engineering (génie logiciel)." src="assets/timeline-light.svg" width="100%">
 </picture>
 
 <br>

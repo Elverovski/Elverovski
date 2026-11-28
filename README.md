@@ -28,7 +28,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="About me: software engineering student and backend developer, with a Computer Science Technology college background. Core stack Java and Spring Boot. Learning Kotlin, Angular, FastAPI, Supabase, Godot and Blender. Building Savygo, a financial-literacy app. 4+ years coding. Speaks Spanish, French and English. Open to internships and junior backend roles." src="assets/terminal-light.svg" width="100%">
+  <img alt="About me: software engineering student and backend developer, with a Computer Science Technology college background. Core stack Java and Spring Boot. Learning Kotlin, Angular, FastAPI, Supabase, Godot and Blender. Building Savygo, a financial-literacy app. 4+ years coding. Speaks Spanish, French and English. Listening to Kasane Teto. Open to internships and junior backend roles." src="assets/terminal-light.svg" width="100%">
 </picture>
 
 <br>
@@ -90,5 +90,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img alt="A little pixel robot dances along a wave. Thanks for stopping by." src="assets/footer-light.svg" width="100%">
+  <img alt="Two little pixel robots, a dancer and a singer, move along a wave. Thanks for stopping by." src="assets/footer-light.svg" width="100%">
 </picture>

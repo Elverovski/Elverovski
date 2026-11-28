@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="236" viewBox="0 0 1000 236" role="img" aria-label="GitHub stats">
+<title>GitHub stats: 18 contributions in the last year, current streak 1 days, longest streak 1 days, 8 public repos. Languages: Python 40.0%, TypeScript 24.2%, Java 20.0%, HTML 10.0%, CSS 5.0%, JavaScript 0.8%.</title>
+<style>@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}.rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}</style>
+<defs><clipPath id="bar"><rect x="28" y="150" height="10" width="0" rx="5"><animate attributeName="width" from="0" to="944" dur="1.4s" begin=".5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .7 .2 1"/></rect></clipPath></defs>
+<rect x=".75" y=".75" width="998.5" height="234.5" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <g class="rise" style="animation-delay:0.10s">
+    
+    <text x="28" y="64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#e6edf3">18</text>
+    
+    <text x="28" y="91" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">CONTRIBUTIONS · 1 YEAR</text>
+  </g>
+  <g class="rise" style="animation-delay:0.18s">
+    <line x1="263.5" y1="32" x2="263.5" y2="98" stroke="#30363d"/>
+    <text x="288" y="64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#e6edf3">1d</text>
+    <circle cx="294" cy="87" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="304" y="91" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">CURRENT STREAK</text>
+  </g>
+  <g class="rise" style="animation-delay:0.26s">
+    <line x1="499.5" y1="32" x2="499.5" y2="98" stroke="#30363d"/>
+    <text x="524" y="64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#e6edf3">1d</text>
+    
+    <text x="524" y="91" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">LONGEST STREAK</text>
+  </g>
+  <g class="rise" style="animation-delay:0.34s">
+    <line x1="735.5" y1="32" x2="735.5" y2="98" stroke="#30363d"/>
+    <text x="760" y="64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-1" fill="#e6edf3">8</text>
+    
+    <text x="760" y="91" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">PUBLIC REPOS</text>
+  </g>
+<text x="28" y="134" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">MOST USED LANGUAGES · PUBLIC REPOS</text>
+<text x="972" y="134" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#8b949e">updated 2026-11-28</text>
+<rect x="28" y="150" width="944" height="10" rx="5" fill="#0d1117"/>
+<g clip-path="url(#bar)"><rect x="28.00" y="150" width="375.60" height="10" fill="#f0f6fc"/><rect x="405.60" y="150" width="226.74" height="10" fill="#b1bac4"/><rect x="634.34" y="150" width="186.80" height="10" fill="#8b949e"/><rect x="823.14" y="150" width="92.38" height="10" fill="#6e7681"/><rect x="917.52" y="150" width="45.38" height="10" fill="#484f58"/><rect x="964.90" y="150" width="5.10" height="10" fill="#30363d"/></g>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3">
+    <g class="rise" style="animation-delay:0.90s"><rect x="28" y="180" width="10" height="10" rx="2" fill="#f0f6fc" stroke="#30363d"/>
+    <text x="44" y="189">Python 40.0%</text></g>
+    <g class="rise" style="animation-delay:0.96s"><rect x="157.6" y="180" width="10" height="10" rx="2" fill="#b1bac4" stroke="#30363d"/>
+    <text x="173.6" y="189">TypeScript 24.2%</text></g>
+    <g class="rise" style="animation-delay:1.02s"><rect x="316.4" y="180" width="10" height="10" rx="2" fill="#8b949e" stroke="#30363d"/>
+    <text x="332.4" y="189">Java 20.0%</text></g>
+    <g class="rise" style="animation-delay:1.08s"><rect x="431.4" y="180" width="10" height="10" rx="2" fill="#6e7681" stroke="#30363d"/>
+    <text x="447.4" y="189">HTML 10.0%</text></g>
+    <g class="rise" style="animation-delay:1.14s"><rect x="546.4" y="180" width="10" height="10" rx="2" fill="#484f58" stroke="#30363d"/>
+    <text x="562.4" y="189">CSS 5.0%</text></g>
+    <g class="rise" style="animation-delay:1.20s"><rect x="646.8" y="180" width="10" height="10" rx="2" fill="#30363d" stroke="#30363d"/>
+    <text x="662.8" y="189">JavaScript 0.8%</text></g>
+</g>
+</svg>

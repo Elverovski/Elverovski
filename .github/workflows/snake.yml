@@ -1,6 +1,6 @@
-# Draws the contribution "snake" in black & white and publishes it to the `output` branch.
+# Builds the stats card and the black & white contribution "snake", then publishes both to the `output` branch.
 # Runs every day, on every push to main, and on demand (Actions tab -> Run workflow).
-name: Contribution snake
+name: Profile assets
 
 on:
   schedule:
@@ -17,6 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats SVGs
+        run: node .github/scripts/stats.mjs dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:

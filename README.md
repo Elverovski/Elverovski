@@ -22,54 +22,43 @@
 <br>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-about-dark.svg">
+  <img alt="01 About" src="assets/section-about-light.svg" width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="About me: software engineering student and backend developer. Core stack Java and Spring Boot. Learning Kotlin, Angular, FastAPI, Supabase, Godot and Blender. Building Savygo, a financial-literacy app. 4+ years coding. Speaks Spanish, French and English. Open to internships and junior backend roles." src="assets/terminal-light.svg" width="100%">
+  <img alt="About me: software engineering student and backend developer, with a Computer Science Technology college background. Core stack Java and Spring Boot. Learning Kotlin, Angular, FastAPI, Supabase, Godot and Blender. Building Savygo, a financial-literacy app. 4+ years coding. Speaks Spanish, French and English. Open to internships and junior backend roles." src="assets/terminal-light.svg" width="100%">
 </picture>
 
 <br>
 
-## Tech stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg">
+  <img alt="02 Tech stack" src="assets/section-stack-light.svg" width="100%">
+</picture>
 
-<table>
-  <tr>
-    <td width="150"><b>Core</b></td>
-    <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring&theme=dark"><img alt="Java, Spring Boot" src="https://skillicons.dev/icons?i=java%2Cspring&theme=light" height="44"></picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cpython%2Cfastapi%2Cnodejs%2Cnestjs&theme=dark"><img alt="Kotlin, Python, FastAPI, Node.js, NestJS" src="https://skillicons.dev/icons?i=kotlin%2Cpython%2Cfastapi%2Cnodejs%2Cnestjs&theme=light" height="44"></picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend &amp; mobile</b></td>
-    <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cangular%2Cnextjs%2Ctailwind&theme=dark"><img alt="TypeScript, React, Angular, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=ts%2Creact%2Cangular%2Cnextjs%2Ctailwind&theme=light" height="44"></picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Csupabase%2Cmysql%2Cmongodb&theme=dark"><img alt="PostgreSQL, Supabase, MySQL, MongoDB" src="https://skillicons.dev/icons?i=postgres%2Csupabase%2Cmysql%2Cmongodb&theme=light" height="44"></picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps &amp; tools</b></td>
-    <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Caws%2Cpostman%2Cgit&theme=dark"><img alt="Docker, GitHub Actions, AWS, Postman, Git" src="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Caws%2Cpostman%2Cgit&theme=light" height="44"></picture>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Also</b></td>
-    <td>
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity%2Ccs%2Cgodot%2Cblender%2Craspberrypi&theme=dark"><img alt="Unity, C#, Godot, Blender, Raspberry Pi" src="https://skillicons.dev/icons?i=unity%2Ccs%2Cgodot%2Cblender%2Craspberrypi&theme=light" height="44"></picture>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Tech stack. Core: Java, Spring Boot. Backend: Kotlin, Python, FastAPI, Node.js, NestJS. Frontend and mobile: TypeScript, React, Angular, Next.js, Tailwind CSS. Data: PostgreSQL, Supabase, MySQL, MongoDB. DevOps and tools: Docker, GitHub Actions, AWS, Postman, Git. Games and hardware: Unity, C#, Godot, Blender, Raspberry Pi. Currently learning Kotlin, FastAPI, Angular, Supabase, Godot and Blender." src="assets/stack-light.svg" width="100%">
+</picture>
 
-## Featured projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-journey-dark.svg">
+  <img alt="03 Journey" src="assets/section-journey-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img alt="Journey: around 2018, the spark, curious about how software works; Computer Science technical college program; Software Engineering studies; full-stack apps; backend focus on Java and Spring Boot; next, a first internship or junior backend role." src="assets/timeline-light.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg">
+  <img alt="04 Featured projects" src="assets/section-projects-light.svg" width="100%">
+</picture>
 
 <p align="center">
   <a href="https://github.com/Elverovski/Artify"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-artify-dark.svg"><img alt="Artify: hackathon WebAR museum" src="assets/card-artify-light.svg" width="49%"></picture></a>
@@ -80,7 +69,17 @@
   <a href="https://elverovski.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-more-dark.svg"><img alt="More projects on elverovski.com" src="assets/card-more-light.svg" width="49%"></picture></a>
 </p>
 
-## Contribution activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-activity-dark.svg">
+  <img alt="05 Activity" src="assets/section-activity-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elverovski/Elverovski/output/stats-dark.svg">
+  <img alt="GitHub stats: contributions, streaks, public repos and most used languages" src="https://raw.githubusercontent.com/Elverovski/Elverovski/output/stats-light.svg" width="100%">
+</picture>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elverovski/Elverovski/output/snake-dark.svg">
@@ -91,5 +90,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img alt="Thanks for stopping by" src="assets/footer-light.svg" width="100%">
+  <img alt="A little pixel robot dances along a wave. Thanks for stopping by." src="assets/footer-light.svg" width="100%">
 </picture>

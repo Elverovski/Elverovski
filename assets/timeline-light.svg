@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" role="img" aria-label="Timeline: ~2018, The spark (Curious about how software works); college, Computer Science (Technical college program); study, Software Engineering (Génie logiciel); build, Full-stack apps (Front ends, APIs and databases); focus, Backend (Java &amp; Spring Boot, clean architecture); next, First role (Internship or junior backend dev).">
+<title>Timeline: ~2018, The spark (Curious about how software works); college, Computer Science (Technical college program); study, Software Engineering (Génie logiciel); build, Full-stack apps (Front ends, APIs and databases); focus, Backend (Java &amp; Spring Boot, clean architecture); next, First role (Internship or junior backend dev).</title>
+<style>@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes pop{from{opacity:0;transform:translateY(6px) scale(.9)}to{opacity:1;transform:none}}
+.pop{animation:pop .6s cubic-bezier(.2,.9,.3,1.2) both;transform-box:fill-box;transform-origin:center}
+</style>
+<line x1="24" y1="64" x2="976" y2="64" stroke="#d0d7de" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+<line x1="84" y1="64" x2="916" y2="64" stroke="#1f2328" stroke-width="2" stroke-dasharray="832" stroke-dashoffset="832">
+  <animate attributeName="stroke-dashoffset" from="832" to="0" dur="2.4s" begin="0.3s" fill="freeze"/></line>
+<circle cy="64" r="3" fill="#1f2328" opacity="0">
+  <set attributeName="opacity" to="1" begin="2.6999999999999997s" fill="freeze"/>
+  <animate attributeName="cx" values="84;916" dur="5s" begin="2.6999999999999997s" repeatCount="indefinite"/></circle>
+  <g class="pop" style="animation-delay:0.3s">
+    
+    <circle cx="84" cy="64" r="7" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+    <text x="84" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#59636e">~2018</text>
+    <text x="84" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2328">The spark</text>
+    <text x="84" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">Curious about how</text><text x="84" y="139" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">software works</text>
+  </g>
+  <g class="pop" style="animation-delay:0.78s">
+    
+    <circle cx="250.4" cy="64" r="7" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+    <text x="250.4" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#59636e">COLLEGE</text>
+    <text x="250.4" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2328">Computer Science</text>
+    <text x="250.4" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">Technical college</text><text x="250.4" y="139" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">program</text>
+  </g>
+  <g class="pop" style="animation-delay:1.26s">
+    
+    <circle cx="416.8" cy="64" r="7" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+    <text x="416.8" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#59636e">STUDY</text>
+    <text x="416.8" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2328">Software Engineering</text>
+    <text x="416.8" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">Génie logiciel</text>
+  </g>
+  <g class="pop" style="animation-delay:1.74s">
+    
+    <circle cx="583.2" cy="64" r="7" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+    <text x="583.2" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#59636e">BUILD</text>
+    <text x="583.2" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2328">Full-stack apps</text>
+    <text x="583.2" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">Front ends, APIs</text><text x="583.2" y="139" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">and databases</text>
+  </g>
+  <g class="pop" style="animation-delay:2.22s">
+    
+    <circle cx="749.6" cy="64" r="7" fill="#ffffff" stroke="#1f2328" stroke-width="2"/>
+    <text x="749.6" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#59636e">FOCUS</text>
+    <text x="749.6" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2328">Backend</text>
+    <text x="749.6" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">Java &amp; Spring Boot,</text><text x="749.6" y="139" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">clean architecture</text>
+  </g>
+  <g class="pop" style="animation-delay:2.7s">
+    <circle cx="916" cy="64" r="7" fill="none" stroke="#16a34a" stroke-width="2"><animate attributeName="r" values="7;17" dur="1.8s" begin="2.7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.8s" begin="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="916" cy="64" r="7" fill="#16a34a" stroke="#16a34a" stroke-width="2"/>
+    <text x="916" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#16a34a">NEXT</text>
+    <text x="916" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#1f2328">First role</text>
+    <text x="916" y="121" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">Internship or</text><text x="916" y="139" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#59636e">junior backend dev</text>
+  </g>
+</svg>
